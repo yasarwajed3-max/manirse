@@ -40,5 +40,11 @@
         "key": "ofb13",
         "expirydate": "26-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8c23aa2d640b5a76",
+        "key": "EGl18iwu4L",
+        "expirydate": "26-09-2025",
+        "Allowoffline": false
     }
 ]
