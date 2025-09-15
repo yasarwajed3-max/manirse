@@ -202,5 +202,11 @@
         "key": "WPnCbmcudM",
         "expirydate": "15-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e4b624342794c86e",
+        "key": "amir01",
+        "expirydate": "15-09-3025",
+        "Allowoffline": false
     }
 ]
