@@ -244,5 +244,11 @@
         "key": "Sv58L3cxIp",
         "expirydate": "23-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a42a6022e95140a4",
+        "key": "rvZ7lURYxK",
+        "expirydate": "23-09-2026",
+        "Allowoffline": false
     }
 ]
