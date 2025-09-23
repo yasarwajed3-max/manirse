@@ -238,5 +238,11 @@
         "key": "fRGsuUL85K",
         "expirydate": "20-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "70eac589792f58e2",
+        "key": "Sv58L3cxIp",
+        "expirydate": "23-10-2025",
+        "Allowoffline": false
     }
 ]
