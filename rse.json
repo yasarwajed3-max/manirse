@@ -502,5 +502,11 @@
         "key": "a7A9iM0qkU",
         "expirydate": "21-11-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dba50da96799ad85",
+        "key": "AP2f94Whu8",
+        "expirydate": "22-11-2026",
+        "Allowoffline": false
     }
 ]
