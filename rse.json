@@ -40,5 +40,11 @@
         "key": "pUGM70A5oa",
         "expirydate": "01-02-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "567eab72e4d12570",
+        "key": "njbkfwIgiO",
+        "expirydate": "01-02-2027",
+        "Allowoffline": false
     }
 ]
