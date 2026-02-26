@@ -196,5 +196,11 @@
         "key": "xSLKEOuas7",
         "expirydate": "25-02-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c253944afc4fcede",
+        "key": "A1EPZ4BltH",
+        "expirydate": "26-02-2027",
+        "Allowoffline": false
     }
 ]
